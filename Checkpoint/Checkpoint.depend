@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1674072602 source:d:\sem\semalgoritmia\actividad 1\main.cpp
+	<iostream>
+	"Paquete.h"
+
+1674074946 d:\sem\semalgoritmia\actividad 1\paquete.h
+	<iostream>
+
+1674074486 source:d:\sem\semalgoritmia\actividad 1\paquete.cpp
+	"Paquete.h"
+	<iostream>
+
+1675821523 source:c:\users\crist\desktop\quinto semestre\sem algoritmia\actividad 1\main.cpp
+	<iostream>
+	<conio.h>
+	"Paquete.h"
+	"Paqueteria.h"
+	<fstream>
+
+1675821514 c:\users\crist\desktop\quinto semestre\sem algoritmia\actividad 1\paquete.h
+	<iostream>
+	<fstream>
+
+1675819224 source:c:\users\crist\desktop\quinto semestre\sem algoritmia\actividad 1\paquete.cpp
+	"Paquete.h"
+	<iostream>
+	<fstream>
+
+1684353128 c:\users\crist\desktop\quinto semestre\sem algoritmia\actividad 1\paqueteria.h
+	<iostream>
+	<exception>
+	<fstream>
+	<string.h>
+	"Paquete.h"
+
+1674366659 source:c:\users\crist\desktop\quinto semestre\sem algoritmia\actividad 1\paqueteria.cpp
+	"Paqueteria.h"
+
+1675819224 source:c:\users\crist\desktop\inco\quinto semestre\sem algoritmia\actividad 1\paquete.cpp
+	"Paquete.h"
+	<iostream>
+	<fstream>
+
+1675821514 c:\users\crist\desktop\inco\quinto semestre\sem algoritmia\actividad 1\paquete.h
+	<iostream>
+	<fstream>
+
+1674366659 source:c:\users\crist\desktop\inco\quinto semestre\sem algoritmia\actividad 1\paqueteria.cpp
+	"Paqueteria.h"
+
+1684353128 c:\users\crist\desktop\inco\quinto semestre\sem algoritmia\actividad 1\paqueteria.h
+	<iostream>
+	<exception>
+	<fstream>
+	<string.h>
+	"Paquete.h"
+
+1699684634 source:c:\users\crist\desktop\inco\quinto semestre\sem algoritmia\actividad 1\main.cpp
+	<iostream>
+	<conio.h>
+	"Paquete.h"
+	"Paqueteria.h"
+	<fstream>
+
+1699684634 source:c:\users\crist\desktop\septimo semestre\computación tolerante a fallas\checkpoint\main.cpp
+	<iostream>
+	<conio.h>
+	"Paquete.h"
+	"Paqueteria.h"
+	<fstream>
+
+1675821514 c:\users\crist\desktop\septimo semestre\computación tolerante a fallas\checkpoint\paquete.h
+	<iostream>
+	<fstream>
+
+1684353128 c:\users\crist\desktop\septimo semestre\computación tolerante a fallas\checkpoint\paqueteria.h
+	<iostream>
+	<exception>
+	<fstream>
+	<string.h>
+	"Paquete.h"
+
+1675819224 source:c:\users\crist\desktop\septimo semestre\computación tolerante a fallas\checkpoint\paquete.cpp
+	"Paquete.h"
+	<iostream>
+	<fstream>
+
+1674366659 source:c:\users\crist\desktop\septimo semestre\computación tolerante a fallas\checkpoint\paqueteria.cpp
+	"Paqueteria.h"
+
